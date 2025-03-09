@@ -1,0 +1,23 @@
+.body.ati{
+    
+}
+.card{
+    box-shadow: 10px 15px 10px rgba(0,0,0,0.25);
+    transition: ease-in-out 0.50s;
+}
+.card img{
+    height: 18rem;
+}
+.card p{
+    font-family: Khmer OS Battambang;
+    color: white;
+}
+.card-body{
+    background-color:#213a57;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.dark{
+    background-color: #213a57;
+}
